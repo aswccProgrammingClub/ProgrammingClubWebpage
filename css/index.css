@@ -1,0 +1,23 @@
+#imageBanner
+{
+    background-color: aqua;
+    height: 200px;
+}
+
+#navBarItems {
+    display: flex;
+    flex-direction: row;
+
+    margin: 0px;
+    background-color: aquamarine;
+    height: 30px;
+
+}
+
+#navBar ul li
+{
+
+    list-style-type: none;
+}
+
+
